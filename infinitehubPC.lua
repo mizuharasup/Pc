@@ -1,4 +1,4 @@
-hubgame.StarterGui:SetCore("SendNotification", {
+game.StarterGui:SetCore("SendNotification", {
       Icon = "rbxassetid://790676070";
       Title = "Infinite hub no key", 
       Text = "No Key!!",
